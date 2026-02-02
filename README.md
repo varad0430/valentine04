@@ -78,7 +78,7 @@
   </audio>
 
   <div class="container" id="main">
-    <h1>💖 HER_NAME_HERE 💖</h1>
+    <h1>💖 Januu 💖</h1>
     <h2>Will you be my Valentine? 💘</h2>
 
     <button id="yesBtn" onclick="yesClicked()">Yes 💕</button>
